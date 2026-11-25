@@ -1,0 +1,6 @@
+{
+  "name": "Play on Fitness – JP Nagar, Bengaluru",
+  "description": "Strength, functional conditioning, and personal training centre on 100 Feet Ring Road near Delmia Circle, JP Nagar, Bengaluru. Book sessions and manage appointments online.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
